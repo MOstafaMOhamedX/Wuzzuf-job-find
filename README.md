@@ -41,5 +41,3 @@ Main page with simple text input
 2. Number of registered graduates
 3. Number of graduates with job
 4. Number of unemployed graduates
-- Maintain in this document means Create, Read, Update and Delete (CRUD)
-
